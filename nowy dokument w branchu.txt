@@ -1,0 +1,3 @@
+this is new document in branch bugfix
+we will see what happens to such file
+if no one takes care for it
