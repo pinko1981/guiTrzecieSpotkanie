@@ -1,4 +1,2 @@
 1sza linijka
 2ga linijka
-
-A tutaj czwarta linijka. Trzecia jest pusta
